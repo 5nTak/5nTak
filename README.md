@@ -7,6 +7,9 @@
 
 ### 🦾 Skills 
 <img src= "https://img.shields.io/badge/iOS-beige?style=for-the-badge&logo=ios&logoColor=000000"> <img src= "https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=F05138"> <img src= "https://img.shields.io/badge/Xcode-navy?style=for-the-badge&logo=xcode&logoColor=147EFB"> <img src= "https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=F05032"> <img src= "https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=000000">
+
+### Tak's stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tak95&show_icons=true&theme=swift)
 <!--
 **Tak95/Tak95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
