@@ -1,9 +1,12 @@
-## Tak 👋 <br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTak95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Tak <br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTak95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🌱 I’m currently learning 📱iOS
 - 📫 How to reach me
   - [Instagram](https://www.instagram.com/5n_tak/)
   - [Gmail ➡️ oit5538@gmail.com](oit5538@gmail.com)
+
+### 🦾 Skills 
+<img src= "https://img.shields.io/badge/iOS-beige?style=for-the-badge&logo=ios&logoColor=000000"> <img src= "https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=F05138"> <img src= "https://img.shields.io/badge/Xcode-navy?style=for-the-badge&logo=xcode&logoColor=147EFB"> <img src= "https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=F05032"> <img src= "https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=000000">
 <!--
 **Tak95/Tak95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
