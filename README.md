@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 📱iOS
 - 📫 How to reach me
   - [Gmail ➡️ oit5538@gmail.com](oit5538@gmail.com)
+  - [Velog](https://velog.io/@5n_tak)
   - [Instagram](https://www.instagram.com/5n_tak/)
 
 ## 🦾 Skills 
